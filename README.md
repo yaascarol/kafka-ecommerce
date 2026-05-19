@@ -21,6 +21,7 @@ O projeto  demonstra o uso do Apache Kafka no gerenciamento de dados em tempo re
 
 ## Pré-requisitos
 
+- Sistema Linux ou WSL
 - Java 8 ou superior instalado
 - Python 3.10 ou superior
 - Apache Kafka baixado e configurado localmente
